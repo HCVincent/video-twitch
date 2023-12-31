@@ -1,3 +1,5 @@
+./app/page.ts
+```ts
 import { Button } from '@/components/ui/button'
 
 export default function Home() {
@@ -5,3 +7,5 @@ export default function Home() {
     <Button size="lg">Click me </Button>
   )
 }
+
+```
