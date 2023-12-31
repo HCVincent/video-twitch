@@ -3,4 +3,5 @@
     * [Commands](foreword/2commands.md)
 * Steps
     * [01.init](steps/01init.md)
+    * [02.AuthRouting](steps/02AuthRouting.md)
     
